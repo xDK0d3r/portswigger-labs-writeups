@@ -11,6 +11,7 @@ I am currently learning web security and documenting my progress by writing clea
 ## 📄 Write-ups
 ### SQL Injection
 - [Retrieving Hidden Data](./SQL-Injection/retrieving-hidden-data.md)
+- [Login Bypass](./SQL-Injection/sqli-login-bypass.md)
 
 ## 🎯 Goal
 To build strong fundamentals in web security and demonstrate practical understanding of vulnerabilities through hands-on labs.
