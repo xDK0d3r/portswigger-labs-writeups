@@ -1,5 +1,12 @@
 # 🔐 Subverting Application Logic (Login Bypass) using SQL Injection
 
+## ⚠️ Disclaimer
+This writeup is for educational purposes only and is based on labs from PortSwigger Web Security Academy.  
+Do not attempt these techniques on real-world applications without proper authorization.  
+The author is not responsible for any misuse of this information.
+
+---
+
 ## 🧩 Lab Source  
 This lab is from PortSwigger Web Security Academy.
 
